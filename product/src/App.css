@@ -1,0 +1,21 @@
+.app-container {
+  padding: 20px;
+  text-align: center;
+  font-family: sans-serif;
+  height: 800px;
+  width: 1200px;
+  justify-content: center;
+  background-color: rgb(243, 202, 209);
+}
+.f{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: rgb(227, 208, 245);
+}
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
